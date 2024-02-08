@@ -1,15 +1,10 @@
-# Raylib-CPP-Starter-Template-for-VSCODE-V2
-Raylib C++ Starter Template for Visual Studio Code on Windows.
-This demo project contains a bouncing ball raylib example program.
-It works with raylib version 5.0. Tested on both Windows 10 and Windows 11.
+# Get Started in raylib in 20 minutes.
+Welcome to the easiest introduction to game development with raylib. If you're new to raylib, you're in the right place to start your journey. In this video, I will guide you through the installation process of raylib on your Windows computer and we are going to build a simple raylib project from scratch. We'll be using C++ with Visual Studio Code to develop a basic raylib program featuring a keyboard-controlled ball. The entire procedure is very easy and should take no more than 20 minutes.
 
-# How to use this template
+# How to use this project
 1. Double click on the main.code-workspace file. This will open the template in VS Code.
 2. From the Explorer Window of VS Code navigate to the src folder and double click on the main.cpp file.
 3. Press F5 on the keyboard to compile and run the program.
-
-# What's changed
-The template now uses folders for better organizion of the files. So, all the source code now lives in the src folder.
 
 # Video Tutorial
 
@@ -18,7 +13,7 @@ The template now uses folders for better organizion of the files. So, all the so
 </p>
 
 <p align="center">
-🎥 <a href="https://www.youtube.com/watch?v=PaAcVk5jUd8">Video Tutorial on YouTube</a>
+🎥 <a href = "https://youtu.be/RGzj-PF7D74">Video Tutorial on YouTube</a>
 </p>
 
 <br>
