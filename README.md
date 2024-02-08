@@ -1,5 +1,5 @@
-# Get Started in raylib in 20 minutes.
-Welcome to the easiest introduction to game development with raylib. If you're new to raylib, you're in the right place to start your journey. In this video, I will guide you through the installation process of raylib on your Windows computer and we are going to build a simple raylib project from scratch. We'll be using C++ with Visual Studio Code to develop a basic raylib program featuring a keyboard-controlled ball. The entire procedure is very easy and should take no more than 20 minutes.
+# Get Started in raylib in 20 minutes - C++
+Welcome to the easiest introduction to game development with raylib in C++. If you're new to raylib, you're in the right place to start your journey. In this video, I will guide you through the installation process of raylib on your Windows computer and we are going to build a simple raylib project from scratch. We'll be using C++ with Visual Studio Code to develop a basic raylib program featuring a keyboard-controlled ball. The entire procedure is very easy and should take no more than 20 minutes.
 
 # How to use this project
 1. Double click on the main.code-workspace file. This will open the project in VS Code.
